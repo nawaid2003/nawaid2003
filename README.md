@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 👨‍💻 All of my projects are available at [nawaid-portfolio.vercel.app](nawaid-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [github.com/nawaid2003](github.com/nawaid2003)
 
 - 💬 Ask me about **Web Development and AI**
 
