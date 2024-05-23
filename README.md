@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 💬 Ask me about **Web Development and AI**
+- 💬 I'm also interested in **Web Development and AI**
 
 - 📫 How to reach me **nawaidwork@gmail.com**
 
