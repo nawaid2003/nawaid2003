@@ -15,9 +15,10 @@
 
 - 📄 Know about my experiences [https://github.com/nawaid2003/resume/blob/main/NawaidResume.pdf](https://github.com/nawaid2003/resume/blob/main/NawaidResume.pdf)
 
-- ⚡ Fun fact **1. I am a magician <br/>
+- ⚡ Fun fact -
+1. I am a magician <br/>
 2. <br />
-3. I can make things dissapear**
+3. I can make things dissapear
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
