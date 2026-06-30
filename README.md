@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Nawaid Sheikh</h1>
-<h3 align="center">An aspiring DevOps Engineer and a pre-final year student</h3>
+<h3 align="center">A Web and App Dev based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaid2003&label=Profile%20views&color=0e75b6&style=flat" alt="nawaid2003" /> </p>
 
-- 🔭 I’m currently working and **Learning**
-
-- 🌱 I’m currently learning **DevOps fundamentals**
+- 🔭 I’m currently working as a Freelancer
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 💬 I'm also interested in **Web Development and AI**
+- 💬 I'm also interested in **Cloud Engineering**
 
 - 📫 How to reach me **nawaidwork@gmail.com**
 
